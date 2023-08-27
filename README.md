@@ -17,7 +17,7 @@ $ git remote set-head origin main
 
 $ git pull origin main
 
-$ git branch -u origin/master main
+$ git branch -u origin/main main
 
 # Project Upload
 
